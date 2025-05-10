@@ -18,7 +18,8 @@ This project uses machine learning to predict **life expectancy** based on vario
 
 [Click to Try the App](https://lifeexpectancyprediction-wqffjbjpkuvpua2ivntbsr.streamlit.app/)
 
-
+👤 Author
+Pradeep – GitHub
 
 ## 🛠️ Installation
 
