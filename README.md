@@ -16,7 +16,7 @@ This project uses machine learning to predict **life expectancy** based on vario
 
 ## 🚀 Live Demo
 
-[Click to Try the App](https://linearregressionproject2-vxyr4guapjfnm5jyvbtwt4.streamlit.app/)
+[Click to Try the App](https://lifeexpectancyprediction-wqffjbjpkuvpua2ivntbsr.streamlit.app/)
 
 
 
